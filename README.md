@@ -1,12 +1,4 @@
 ### Hello there 👋, Myself Yash
- <a href="https://www.linkedin.com/in/yash-vijayvargiya-a238121b4//">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
-  
-<a href="mailto:yashvijay.yv89@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-
-<br />
 
 
 ### About Me 🚀
@@ -16,7 +8,14 @@
 🌱 I’m currently learning Android Development.</br>
 💬 Ask me about anything related to Android Development.</br>
 
-### Contact 
+### Contact me:
+ <a href="https://www.linkedin.com/in/yash-vijayvargiya-a238121b4//">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+  
+<a href="mailto:yashvijay.yv89@gmail.com">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+ </br>
 
 ### Languages and Tools:
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
